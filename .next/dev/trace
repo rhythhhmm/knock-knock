@@ -120,3 +120,4 @@
 [{"name":"turbopack-persistence","duration":111000,"timestamp":850978557301,"id":443,"parentId":3,"tags":{"reason":"idle timeout","snapshot_duration_ms":0.548708,"persist_duration_ms":110.791416,"task_count":479},"startTime":1775388827205,"traceId":"46b20be16e931574"}]
 [{"name":"turbopack-persistence","duration":93000,"timestamp":850992521519,"id":445,"parentId":3,"tags":{"reason":"idle timeout","snapshot_duration_ms":0.5315,"persist_duration_ms":92.547625,"task_count":479},"startTime":1775388841151,"traceId":"46b20be16e931574"}]
 [{"name":"turbopack-compaction","duration":349000,"timestamp":850992614336,"id":447,"parentId":3,"tags":{},"startTime":1775388841500,"traceId":"46b20be16e931574"}]
+[{"name":"turbopack-persistence","duration":34000,"timestamp":851501927485,"id":449,"parentId":3,"tags":{"reason":"idle timeout","snapshot_duration_ms":0.482459,"persist_duration_ms":33.553709,"task_count":3},"startTime":1775389350503,"traceId":"46b20be16e931574"}]

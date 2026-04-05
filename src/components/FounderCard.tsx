@@ -28,7 +28,7 @@ function FounderCard() {
         </div>
         <div className="mt-4 text-center">
           <div className="font-bold text-gray-900">Founder</div>
-          <div className="text-sm text-blue-600">Knock Knock India</div>
+          <div className="text-sm text-blue-600">Knock Knock</div>
         </div>
       </div>
       <div className="flex-1">
